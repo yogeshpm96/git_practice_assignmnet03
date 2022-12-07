@@ -2,7 +2,7 @@ let num=5;
 
 let count=0;
    
-for(let i=num; i<=num; i--)
+for(let i=1; i<=num; i++)
    
  	{
         
@@ -19,10 +19,10 @@ for(let i=num; i<=num; i--)
 if(count==2)
 
         {
-            console.log(Yes Prime Number)
+            console.log("Yes Prime Number")
         }
 
         else
         {
-            console.log(Not Prime Number)
+            console.log("Not Prime Number")
         }
